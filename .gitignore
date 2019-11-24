@@ -2,11 +2,5 @@
 venv/
 
 */*.pyc
-db_access/*.pyc
-db_setup/*pyc
-
-db_access/_pycache_/*
-db_setup/_pycache_/*
-service/_pycache_/*
 
 db.sqlite
